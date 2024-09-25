@@ -1,4 +1,4 @@
-# Merge Sort Algorithms
+# Merge Sort Algorithms Comparisions
 
 ## Overview
 
