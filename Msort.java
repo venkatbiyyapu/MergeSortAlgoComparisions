@@ -1,13 +1,3 @@
-/** Sample starter code for merge sort.
- *  @author rbk
- *  @author SA 
- * shuffling the array after every trail takes lot of time
- * create worst case input and copy to input array after every trail
- * not the best option. but saves time
- * if space is an issue, use csgrads1.utdallas.edu server
- */
-
-package VXB220005;
 import java.util.Random;
 
 public class Msort {
